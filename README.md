@@ -1,4 +1,4 @@
-#Twitter Bot for testing
+Twitter Bot for testing
 
 index.js includes AWS Lambda functionality for Echo Tweeting Skill. Currently not working
 
